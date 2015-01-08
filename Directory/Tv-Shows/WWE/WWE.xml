@@ -1,0 +1,28 @@
+#######################################################################################################################################
+<poster>Dij entertainments</poster>
+<fanart>http://farm4.staticflickr.com/3724/10218872476_63a1eca0c3_o.jpg</fanart>
+#######################################################################################################################################
+
+
+<dir>
+<name>[COLOR red]WWE RAW[/COLOR] [COLOR red]REPLAYS[/COLOR]</name>
+<link>https://raw.githubusercontent.com/HackerMil/HackerMilsMovieStash/master/Fight%20Club/Directories/Main%20Event%20Replays.xml</link>
+<thumbnail>http://farm8.staticflickr.com/7437/10217529816_0ac3a20c6f_o.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR blue]WWE SMACKDOWN[/COLOR] [COLOR red]REPLAYS[/COLOR]</name>
+<link>https://raw.githubusercontent.com/HackerMil/HackerMilsMovieStash/master/Fight%20Club/Directories/Boxing/Directories/Replays.xml</link>
+<thumbnail>http://farm8.staticflickr.com/7437/10217529816_0ac3a20c6f_o.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]WWE PPV[/COLOR] [COLOR red]REPLAYS[/COLOR]</name>
+<link>https://raw.githubusercontent.com/HackerMil/HackerMilsMovieStash/master/Fight%20Club/Directories/MMA/Directories/Replays.xml</link>
+<thumbnail>http://farm8.staticflickr.com/7437/10217529816_0ac3a20c6f_o.png</thumbnail>
+</dir>
+
+
+
+
+

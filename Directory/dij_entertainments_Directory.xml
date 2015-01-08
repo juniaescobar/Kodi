@@ -12,11 +12,16 @@
 
 
 <name>[COLOR blue]MOVIES[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Movies/HD.xml</link>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/Movies.xml</link>
 <thumbnail>http://farm8.staticflickr.com/7440/10217500385_9838d2412a_o.jpg</thumbnail>
 <date>DIJ</date>
 
 <name>[COLOR green]TV-SHOWS[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Comedy%20Central/Comedy%20Central.xml</link>
+<thumbnail>http://farm8.staticflickr.com/7436/10216924005_94fb74c943_o.png</thumbnail>
+<date>DIJ</date>
+
+<name>[COLOR green]WWE[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Comedy%20Central/Comedy%20Central.xml</link>
 <thumbnail>http://farm8.staticflickr.com/7436/10216924005_94fb74c943_o.png</thumbnail>
 <date>DIJ</date>

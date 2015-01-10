@@ -10,30 +10,31 @@
 #####################################################################################################################
 
 
-
+<dir>
 <name>[COLOR aqua]hd[/COLOR][COLOR red]being worked on some will work[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Movies/hd.xml</link>
 <thumbnail>http://s12.postimg.org/ry7cgy6vx/hdmovies.png</thumbnail>
 <date>DIJ</date>
-
-
+</dir>
+<dir>
 <name>[COLOR aqua] Kids Place[/COLOR] [COLOR red]being worked on some will work [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/KidsPlace.xml</link>
 <thumbnail>http://s18.postimg.org/9o15petax/kids.png</thumbnail>
 <date>DIJ</date>
-
+</dir>
+<dir>
 <name>[COLOR aqua] Kids Movie Packs[/COLOR] [COLOR red]being worked on some will work [/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/KidsMoviePacks/KidsMoviePacks.xml</link>
 <thumbnail>http://s28.postimg.org/uvetxa319/popcornmovie.jpg</thumbnail>
 <date>DIJ</date>
+</dir>
 
-
-
+<dir>
 <name>  [COLOR aqua]Follow[/COLOR] [COLOR yellow]@dijentertain[/COLOR] [COLOR aqua]-->[/COLOR][COLOR red]  Follow Me For Inside Scoop! New Content Added Updates and Dead Link Notification For Lightning Fast Fixes[/COLOR]</name>
 <link>nill</link>
 <thumbnail>http://s15.postimg.org/4nx1i9n1n/twitter.png</thumbnail>
 <date>DIJ</date>
-
+</dir>
 
 
 

@@ -13,31 +13,27 @@
 #
 <folder>[COLOR blue]MOVIES[/COLOR]</folder>
 <url>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/Movies.xml</url>
-<thumbnail>http://s17.posturl.org/44a19kj3z/movies.png</thumbnail>
-<date>DIJ</date>
+<img>http://s17.posturl.org/44a19kj3z/movies.png</img>
+
 #
 <folder>[COLOR green]TV-SHOWS[/COLOR] [COLOR yellow]COMING SOON[/COLOR]</folder>
 <url>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/TV/tv.xml</url>
-<thumbnail>http://s8.posturl.org/lm0a9bwb9/tvshows.png</thumbnail>
-<date>DIJ</date>
+<img>http://s8.posturl.org/lm0a9bwb9/tvshows.png</img>
+
 #
 <folder>[COLOR green]WWE[/COLOR] [COLOR yellow]COMING SOON[/COLOR]</folder>
 <url>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/WWE/WWE.xml</url>
-<thumbnail>http://s17.posturl.org/wznncldbz/wwe.png</thumbnail>
-<date>DIJ</date>
+<img>http://s17.posturl.org/wznncldbz/wwe.png</img>
+
 #
 <folder>[COLOR red]XXX[/COLOR] [COLOR yellow]COMING SOON[/COLOR]</folder>
 <url>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/XXX/XXX.xml</url>
-<thumbnail>http://s21.posturl.org/vme5qfz4n/4137_2012_03_istock_000017864785xsmall.jpg</thumbnail>
-<date>DIJ</date>
+<img>http://s21.posturl.org/vme5qfz4n/4137_2012_03_istock_000017864785xsmall.jpg</img>
+
 #
 <folder>  [COLOR aqua]Follow[/COLOR] [COLOR yellow]@dijentertain[/COLOR] [COLOR aqua]-->[/COLOR][COLOR red]  Follow Me For Inside Scoop! New Content Added Updates and Dead url Notification For Lightning Fast Fixes[/COLOR]</folder>
 <url>nill</url>
-<thumbnail>http://s15.posturl.org/4nx1i9n1n/twitter.png</thumbnail>
-<date>DIJ</date>
+<img>http://s15.posturl.org/4nx1i9n1n/twitter.png</img>
+#
 
 
-#######################################################################################################################################
-
-
-##############################################################################################################################

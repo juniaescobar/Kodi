@@ -18,10 +18,17 @@
 </dir>
 
 <dir>
-<name>[COLOR aqua]KIDS MOVIES[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/kidsmovies.xml</link>
-<thumbnail>http://s12.postimg.org/ry7cgy6vx/hdmovies.png</thumbnail>
+<name>[COLOR aqua]KIDS MOVIES 1[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/kidsmovies1.xml</link>
+<thumbnail></thumbnail>
 </dir>
+
+<dir>
+<name>[COLOR aqua]KIDS MOVIES 2[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/kidsmovies2.xml</link>
+<thumbnail></thumbnail>
+</dir>
+
 
 
 

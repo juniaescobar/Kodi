@@ -19,7 +19,13 @@
 <dir>
 <name>[COLOR aqua]WEBRIP[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/webrip.xml</link>
-<thumbnail>http://s14.postimg.org/6i5y3io75/disneymovies.jpg</thumbnail>
+<thumbnail>http://s30.postimg.org/k5ua7vr69/5161939f96364.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR aqua]HDRIP[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/hdrip.xml</link>
+<thumbnail>http://s30.postimg.org/k5ua7vr69/5161939f96364.jpg</thumbnail>
 </dir>
 
 

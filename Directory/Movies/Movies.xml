@@ -14,8 +14,14 @@
 <name>[COLOR aqua]DVDSCRS[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/dvdscr.xml</link>
 <thumbnail>http://s30.postimg.org/k5ua7vr69/5161939f96364.jpg</thumbnail>
-
 </dir>
+
+<dir>
+<name>[COLOR aqua]WEBRIP[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/webrip.xml</link>
+<thumbnail>http://s14.postimg.org/6i5y3io75/disneymovies.jpg</thumbnail>
+</dir>
+
 
 <dir>
 <name>[COLOR aqua]KIDS MOVIES 1[/COLOR]</name>

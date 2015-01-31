@@ -38,7 +38,16 @@
 <link>http://xty.me/xunitytalk/playlist/cartoonhd/picasa_tom_and_jerry.xml</link>
 <thumbnail>https://lh4.googleusercontent.com/-Ute4kv0UCxA/UeZE5m13xsI/AAAAAAAAFUE/6WvyWl0iduU/s512/tomjerry.jpg</thumbnail>
 </dir>
-
+<dir>
+<name>Family Guy (14+)</name>
+<link>http://xty.me/xunitytalk/playlist/cartoonhd/picasa_family_guy.xml</link>
+<thumbnail>https://lh6.googleusercontent.com/-Dal9UKPA590/VIQFpcBcggI/AAAAAAAAAH0/GhLJMdRHHSM/s0/family-guy.jpg</thumbnail>
+</dir>
+<dir>
+<name>American Dad</name>
+<link>http://xty.me/xunitytalk/playlist/cartoonhd/cartoon_american_dad.xml</link>
+<thumbnail>https://lh6.googleusercontent.com/-Y3sFIYT8WzA/VIQFiuqngCI/AAAAAAAAAG8/wmevhf-Nwlc/s0/american-dad.jpg</thumbnail>
+</dir>
 
 #######################################################################################################################################
 ##############################################################################################################################

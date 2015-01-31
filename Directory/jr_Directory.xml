@@ -13,17 +13,10 @@
 <name>[COLOR blue]MOVIES[/COLOR]</name>
 <link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/Movies.xml</link>
 <thumbnail>http://s17.postimg.org/44a19kj3z/movies.png</thumbnail>
-<date>DIJ</date>
 
 <name>[COLOR green]TV-SHOWS[/COLOR]</name>
-<link>https://raw.githubusercontent.com/juniaescobar/Kodi/master/Directortv.xml</link>
+<link>https://raw.githubusercontent.com/dandy0850/iStream/master/tvshows.xml</link>
 <thumbnail>http://s8.postimg.org/lm0a9bwb9/tvshows.png</thumbnail>
-<date>DIJ</date>
-
-<name>[COLOR green]WWE[/COLOR]</name>
-<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Tv-Shows/WWE/WWE.xml</link>
-<thumbnail>http://s17.postimg.org/wznncldbz/wwe.png</thumbnail>
-<date>DIJ</date>
 
 
 #######################################################################################################################################

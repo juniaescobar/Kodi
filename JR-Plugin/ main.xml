@@ -1,1 +1,24 @@
-fgdg
+#######################################################################################################################################
+
+<poster>JR</poster>
+<fanart>https://farm9.staticflickr.com/8618/16220780928_4c6405d28f_s.jpg</fanart>
+
+#######################################################################################################################################
+#####################################################################################################################
+
+<name>[COLOR blue]MOVIES[/COLOR]</name>
+<link>https://raw.github.com/djjohnnyb15/dij-entertainments/master/Directory/Movies/Movies.xml</link>
+<thumbnail>http://s17.postimg.org/44a19kj3z/movies.png</thumbnail>
+
+<name>[COLOR green]TV-SHOWS[/COLOR]</name>
+<link>https://raw.githubusercontent.com/juniaescobar/Kodi/master/Directortv.xml</link>
+<thumbnail>http://s8.postimg.org/lm0a9bwb9/tvshows.png</thumbnail>
+
+#######################################################################################################################################
+
+<name>[COLOR red]XXX[/COLOR]</name>
+<link>https://raw.github.com/juniaescobar/Kodi/master/Directory/XXX/XXX.xml</link>
+
+<thumbnail>http://s17.postimg.org/wznncldbz/wwe.png</thumbnail>
+
+##############################################################################################################################

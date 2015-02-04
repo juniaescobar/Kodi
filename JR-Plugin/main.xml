@@ -14,6 +14,10 @@
 <link>https://raw.githubusercontent.com/juniaescobar/Kodi/master/Directortv.xml</link>
 <thumbnail>http://s8.postimg.org/lm0a9bwb9/tvshows.png</thumbnail>
 
+<name>[COLOR green]CP24[/COLOR]</name>
+<link>http://player.9c9media.com/ETS_Universal_42_3.1/etsmediaplayer/bm_mediaplayer.swf</link>
+<thumbnail>http://s8.postimg.org/lm0a9bwb9/tvshows.png</thumbnail>
+
 #######################################################################################################################################
 
 <name>[COLOR red]XXX[/COLOR]</name>
